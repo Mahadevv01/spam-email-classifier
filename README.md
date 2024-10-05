@@ -9,7 +9,6 @@ A machine learning-based spam email detector that classifies emails as either "s
 - **Prediction:** Classify new emails as spam or not spam based on learned patterns.
 - **Accuracy Metrics:** Evaluate model performance using accuracy, precision, recall, and F1-score.
 
-## Installation
 
 
 
