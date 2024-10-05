@@ -13,7 +13,3 @@ A machine learning-based spam email detector that classifies emails as either "s
 
 To run the spam email detector, you'll need Python and the required libraries. Here's how to set up the project:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/spam-email-detector.git
-   cd spam-email-detector
