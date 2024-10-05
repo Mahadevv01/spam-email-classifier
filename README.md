@@ -11,5 +11,5 @@ A machine learning-based spam email detector that classifies emails as either "s
 
 ## Installation
 
-To run the spam email detector, you'll need Python and the required libraries. Here's how to set up the project:
+
 
